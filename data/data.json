@@ -1,0 +1,15 @@
+
+"person":{
+    "firstName": "monika",
+    "lastName": "szucs"
+},
+"work": {
+    "job": "faculty",
+    "program": "Digital Design Development Diploma",
+    "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDU6ibLQCKmvOZTV7rjUt1hq8QNlm59XtqLbDoJ2QyhjlrsmxYa1P-hoCw1sQAvD_BwE&gclsrc=aw.ds"
+    },
+
+"study": {
+    "programs": ["Applied software development", "computer science certificate", "computer systems diploma"],
+    "department": "School of computing and information tech"
+}
