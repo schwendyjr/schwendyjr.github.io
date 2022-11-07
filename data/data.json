@@ -1,4 +1,4 @@
-
+{
 "person":{
     "firstName": "monika",
     "lastName": "szucs"
@@ -12,4 +12,5 @@
 "study": {
     "programs": ["Applied software development", "computer science certificate", "computer systems diploma"],
     "department": "School of computing and information tech"
+}
 }
